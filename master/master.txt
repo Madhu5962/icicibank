@@ -1,1 +1,2 @@
  hi iam creating master file in master repositery
+ now iam adding feature to it
